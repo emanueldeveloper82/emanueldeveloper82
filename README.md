@@ -34,14 +34,23 @@
 
 ## 📚 Sobre
 Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vision. Após 3 anos, iniciei com linguagem Java e fiquei 6 anos trabalhando com a versão 4, sem nenhum framework. Logo após isso, passei a trabalhar com JSF com Pimefaces e banco de dados Oracle. Não demorou muito e iniciei minha vida com API Rest com Spring Boot e com front-end em Angular 8. 
+  
 
-- **Quem sou:** Sou programador java desde 2011 e venho aprimorando estudos em diferentes tecnologias;
-- **Conhecimentos:** Neste projeto apresento meus conhecimentos em Node.js e Expres.js com o foco no back-end;
+## 💼 Tecnologias que já trabalhei e utilizo diariamente
 
+  - Java
+  - Node
+  - Spring Boot
+  - JSF
+  - Primefaces
+  - Angular
+  - MongoDb
+  - PostgreSql
+  - Oracle
 
-## 💼 Tecnologias utilizadas
-
-- Trabalho com java desde 2011 ...
+  
+  
+  
 
     
 

@@ -13,9 +13,9 @@
     </tr>
   </table>
   
-  <h1 align="center"> 
-    Olá, me chamo Emanuel e sou de Salvadô, BaHêa meu rei! 🇧🇷     
-  </h1>
+  <h2 align="center"> 
+    Olá, me chamo Emanuel e sou de Salvadô, BaHêa 🇫🇷 meu rei! 🇧🇷     
+  </h2>
 
   <h6 align="center">
     Acarajé só quente e com camarão e, pra não perder a prática, o lá ele sempre é garantido! 😜

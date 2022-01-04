@@ -30,6 +30,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueldeveloper82&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
+  
+  
 ---  
 
 ## 📚 Sobre
@@ -47,11 +49,6 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
   - MongoDb
   - PostgreSql
   - Oracle
-
-  
-  
-  
-
-    
+   
 
 

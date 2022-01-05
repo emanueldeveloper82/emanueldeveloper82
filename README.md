@@ -90,31 +90,30 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
     </td>
   </tr>
   <tr>
-    <th>Hosting/SaaS/PaaS</th>
+    <th>Hospedagem/SaaS/PaaS</th>
     <td>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
       <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <th>Automate, Deploy, Platform & Tools</th>
+    <th>Automatização e Deploy</th>
     <td>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/-Jenkins-DC382D?style=flat-square&logo=jenkins&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /> 
-      <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=flat-square&logo=nginx&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+      <img src="https://img.shields.io/badge/sonarqube-07405E?style=flat-square&logo=sonarqube&logoColor=white" />
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
     </td>
   </tr>
   <tr>
-    <th>Testing</th>
+    <th>Testes</th>
     <td>
-      <img src="https://img.shields.io/badge/-Mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white" />
       <img src="https://img.shields.io/badge/Junit5-25A162.svg?&style=flat-square&logo=postgresql&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <th>Operating Systems</th>
+    <th>Sistemas Operacionais</th>
     <td>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />

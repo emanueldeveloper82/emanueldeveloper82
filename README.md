@@ -51,11 +51,11 @@
 ---  
 
 ## 📚 Sobre
-Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vision. Após 3 anos, iniciei com linguagem Java e fiquei 6 anos trabalhando com a versão 4, sem nenhum framework. Logo após isso, passei a trabalhar com JSF com Pimefaces e banco de dados Oracle. Não demorou muito e iniciei minha vida com API Rest com Spring Boot e com front-end em Angular 8. 
+<p align="justify">
+Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vision. Após 3 anos, iniciei com linguagem Java e fiquei 6 anos trabalhando com a versão 4, sem nenhum framework. Logo após isso, passei a trabalhar com JSF com Pimefaces e banco de dados Oracle. Não demorou muito e iniciei minha vida com API Rest com Spring Boot e com front-end em Angular 8. </p>
   
 
 ## 💼 Tecnologias que já trabalhei ou tenho conhecimento
-
  <table style="width:100%">
  <tr>
     <th>Linguagem de Programação</th>
@@ -137,7 +137,8 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
   </tr>
   
 </table>
-   
+
+  
 ![Snake animation](https://github.com/emanueldeveloper82/emanueldeveloper82/blob/main/github-contribution-grid-snake.svg)
 
 

@@ -56,17 +56,16 @@
 Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vision. Após 3 anos, iniciei com linguagem Java e fiquei 6 anos trabalhando com a versão 4, sem nenhum framework. Logo após isso, passei a trabalhar com JSF com Pimefaces e banco de dados Oracle. Não demorou muito e iniciei minha vida com API Rest com Spring Boot e com front-end em Angular 8. 
   
 
-## 💼 Tecnologias que já trabalhei
+## 💼 Tecnologias que já trabalhei ou tenho conhecimento
 
-  <table style="width:100%">
+ <table style="width:100%">
  <tr>
-    <th>Programming Languages</th>
+    <th>Linguagem de Programação</th>
     <td> 
-      <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-      <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />      
       <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
-      <img src="https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black" />
+      <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+      <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />      
       <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
       <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" />      
    </td>
@@ -81,13 +80,13 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
     </td>
   </tr>
   <tr>
-    <th>Databases</th>
+    <th>Banco de Dados</th>
     <td>
-      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?&style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle" />
+      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />      
     </td>
   </tr>
   <tr>

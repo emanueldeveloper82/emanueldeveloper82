@@ -73,8 +73,6 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
     <td>
       <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
-      <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" />
-      <img src="https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux&logoColor=violet" />
     </td>
   </tr>
   <tr>
@@ -127,15 +125,15 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
     </td>
   </tr>
   <tr>
-    <th>Others</th>
+    <th>Iniciando Estudos em</th>
     <td>
-      <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" />
+      <img src="https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux&logoColor=violet" />
     </td>
   </tr>
   
 </table>
    
-  ![Snake animation](https://github.com/emanueldeveloper82/emanueldeveloper82/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/emanueldeveloper82/emanueldeveloper82/blob/main/github-contribution-grid-snake.svg)
 
 

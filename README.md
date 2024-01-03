@@ -14,7 +14,7 @@
   </table>
   
   <h2 align="center"> 
-    Olá, me chamo Emanuel e sou de Salvadô, BaHêa 🇫🇷 meu rei! 🇧🇷     
+    Olá, me chamo Emanuel e sou de Salvadô, BaHêa 🇫🇷 meu rei! :brazil:    
   </h2>
 
   <h6 align="center">

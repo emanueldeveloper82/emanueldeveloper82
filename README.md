@@ -57,7 +57,7 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
     <th>Linguagem de Programação</th>
     <td> 
       <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
-      <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />      
+      <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white" />      
       <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
       <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />      

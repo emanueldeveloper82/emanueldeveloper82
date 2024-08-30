@@ -112,7 +112,7 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
     <th>Outras Ferramentas</th>
     <td>
       <img src="https://img.shields.io/badge/PrismaORM-%23000000.svg?style=flat-square&logo=prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeORM-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeORM-%23DD0031.svg?style=flat-square&logoColor=white" />
       <img src="https://img.shields.io/badge/-SequelizeORM-2496ED?style=flat-square&logo=robot&logoColor=white" />
       <img src="https://img.shields.io/badge/jwt-%23430098.svg?style=flat-square&logoColor=white" />
     </td>

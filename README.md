@@ -57,6 +57,7 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
     <th>Linguagem de Programação</th>
     <td> 
       <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
+      <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />      
       <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
       <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />      
@@ -66,22 +67,26 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
   </tr>
   <tr>
     <th>Frameworks</th>
-    <td>
-      <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+    <td>      
       <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
       <img src="https://img.shields.io/badge/-PrimeFaces-2496ED?style=flat-square&logo=robot&logoColor=white" />
       <img src="https://img.shields.io/badge/-jsf-2496ED?style=flat-square&logo=jsf&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />      
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-the-badge&logo=django&logoColor=white" />      
     </td>
   </tr>
   <tr>
     <th>Banco de Dados</th>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?&style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle" />
-      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
+      <img src="https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle" />      
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />      
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
+      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -89,7 +94,7 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
     <td>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
       <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />     
+      <img src="https://img.shields.io/badge/AWS-%23ED8B00.svg?style=for-the-badge&logoColor=white" />     
     </td>
   </tr>
   <tr>
@@ -103,9 +108,16 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
     </td>
   </tr>
   <tr>
+    <th>Outras Ferramentas</th>
+    <td>
+      <img src="https://img.shields.io/badge/Prisma-%23000000.svg?style=for-the-badge&logo=prisma&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
     <th>Testes</th>
     <td>
-      <img src="https://img.shields.io/badge/Junit5-25A162.svg?&style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Junit5-25A162.svg?&style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jest-25D366?style=for-the-badge&logoColor=white" />      
     </td>
   </tr>
   <tr>

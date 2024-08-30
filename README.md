@@ -103,8 +103,8 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
     <td>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/-Jenkins-DC382D?style=flat-square&logo=jenkins&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
       <img src="https://img.shields.io/badge/sonarqube-07405E?style=flat-square&logo=sonarqube&logoColor=white" />
+      <img src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab" />
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
     </td>
   </tr>

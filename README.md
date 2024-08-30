@@ -95,8 +95,7 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
     <td>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
       <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-%23ED8B00.svg?style=flat-square&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/AWS-%23ED8B00.svg?style=flat-square&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/AWS-%23ED8B00.svg?style=flat-square&logoColor=white" />       
       <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" /> 
       <img src="https://img.shields.io/badge/Openshift-000?style=for-the-badge&logo=redhat&logoColor=red" />       
     </td>

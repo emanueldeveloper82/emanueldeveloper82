@@ -71,10 +71,10 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
       <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
       <img src="https://img.shields.io/badge/-PrimeFaces-2496ED?style=flat-square&logo=robot&logoColor=white" />
       <img src="https://img.shields.io/badge/-jsf-2496ED?style=flat-square&logo=jsf&logoColor=white" />
-      <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" />
       <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />      
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-the-badge&logo=django&logoColor=white" />      
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />      
     </td>
   </tr>
   <tr>
@@ -85,8 +85,8 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -94,7 +94,7 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
     <td>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
       <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-%23ED8B00.svg?style=for-the-badge&logoColor=white" />     
+      <img src="https://img.shields.io/badge/AWS-%23ED8B00.svg?style=flat-square&logoColor=white" />     
     </td>
   </tr>
   <tr>
@@ -110,14 +110,14 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
   <tr>
     <th>Outras Ferramentas</th>
     <td>
-      <img src="https://img.shields.io/badge/Prisma-%23000000.svg?style=for-the-badge&logo=prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-%23000000.svg?style=flat-square&logo=prisma&logoColor=white" />
     </td>
   </tr>
   <tr>
     <th>Testes</th>
     <td>
       <img src="https://img.shields.io/badge/Junit5-25A162.svg?&style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jest-25D366?style=for-the-badge&logoColor=white" />      
+      <img src="https://img.shields.io/badge/Jest-25D366?style=flat-square&logoColor=white" />      
     </td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
     <td>
       <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" />
       <img src="https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux&logoColor=violet" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-the-badge&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
     </td>
   </tr>
   

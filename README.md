@@ -70,11 +70,12 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
     <td>      
       <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
       <img src="https://img.shields.io/badge/-PrimeFaces-2496ED?style=flat-square&logo=robot&logoColor=white" />
-      <img src="https://img.shields.io/badge/-jsf-2496ED?style=flat-square&logo=jsf&logoColor=white" />
+      <img src="https://img.shields.io/badge/-jsf-FCC624?style=flat-square&logo=jsf&logoColor=white" />
       <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" />
       <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />      
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />      
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -110,7 +111,10 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
   <tr>
     <th>Outras Ferramentas</th>
     <td>
-      <img src="https://img.shields.io/badge/Prisma-%23000000.svg?style=flat-square&logo=prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/PrismaORM-%23000000.svg?style=flat-square&logo=prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeORM-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/-SequelizeORM-2496ED?style=flat-square&logo=robot&logoColor=white" />
+      <img src="https://img.shields.io/badge/jwt-%23430098.svg?style=flat-square&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -142,6 +146,7 @@ Iniciei na área de desenvolvimento de sistema em 2008 com Delphi, VB e Unify Vi
       <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" />
       <img src="https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux&logoColor=violet" />
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />      
     </td>
   </tr>
   

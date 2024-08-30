@@ -37,15 +37,11 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Node.Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Spring" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Postgre" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Gradle" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg">
-  <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-          
+  <img align="center" alt="Node.Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img align="center" alt="NestJS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg">  
+  <img align="center" alt="Anguar" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">        
 </div>
   
 ---  

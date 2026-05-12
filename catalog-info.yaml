@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:  
+  name: emanuel-portfolio
+  description: Repositório de perfil pessoal e portfólio do GitHub.
+  annotations:    
+    github.com/project-slug: emanueldeveloper82/emanueldeveloper82
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: production  
+  owner: group:default/guests
+  system: personal-portfolio

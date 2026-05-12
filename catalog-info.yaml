@@ -9,5 +9,5 @@ metadata:
 spec:
   type: website
   lifecycle: production  
-  owner: group:default/guests
+  owner: user:emanuel-silva
   system: personal-portfolio
